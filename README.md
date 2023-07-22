@@ -1,2 +1,4 @@
 # UECPP_practice
-A bunch functions for practicing C++ in Unreal Engine
+A bunch of functions I practiced in C++ for Unreal Engine.
+
+When reusing the C++ class in new project, remember the replace the API name in header(.h) file.
